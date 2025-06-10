@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Mateus Farias dos Santos, tenho 20 anos e sou natural de Teresina, Piauí. Atualmente, estou cursando Engenharia de Software no iCEV – Instituto de Ensino Superior. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados na área de desenvolvimento de sistemas, com o objetivo de criar soluções eficientes e inovadoras para os desafios do mundo digital.
+Me chamo Mateus Farias dos Santos, tenho 20 anos e sou natural de Teresina, Piauí. Atualmente, estou cursando Engenharia de Software no iCEV – Instituto de Ensino Superior. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados na área de desenvolvimento de software, com o objetivo de criar soluções eficientes e inovadoras para os desafios do mundo digital.
 
 ### 🤖 Linguagens e Tecnologias
 
